@@ -1,1 +1,1 @@
-[{"id":"1a82aa385","id1":"","id2":"","id3":"3","init":1,"note":"id1","pack":"com.craftworld.crafting.minibuildcraftsman","pe1":90,"pe2":120,"status":"true"}]
+[{"id":"1a82aa385","id1":"","id2":"","id3":"3","init":1,"note":"id1","pack":"","pe1":90,"pe2":120,"status":"true"}]
